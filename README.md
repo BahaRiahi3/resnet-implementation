@@ -19,9 +19,9 @@ This project is my **first paper implementation** 🎉, where I built and compar
 
 We use FashionMNIST, a dataset of grayscale images of clothing items. It consists of:
 
-    60,000 training images
+- 60,000 training images
+- 10,000 test images
+- 10 classes (T-shirts, Shoes, Bags, etc.)
 
-    10,000 test images
 
-    10 classes (T-shirts, Shoes, Bags, etc.)
 Let me know if you want to tweak anything! 😃
